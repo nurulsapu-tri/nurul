@@ -1,4 +1,4 @@
 <?php
-    phpinfo();
-    echo "ini perubahan";
+phpinfo();
+echo "testing 2" ;
 ?>
